@@ -1,0 +1,9 @@
+ipykernel
+matplotlib
+vega_datasets
+pandas
+scipy
+numpy
+bqplot
+ipywidgets
+voila
